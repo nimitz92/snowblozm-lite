@@ -3,6 +3,8 @@
 // snowblozm directory
 		define('SBLROOT', dirname(__FILE__).'/' );
 		
-// system constants
+// configure mail
+		define('MAILHOST', 'localhost');
+		define('MAILPORT', 25);
 
 ?>
