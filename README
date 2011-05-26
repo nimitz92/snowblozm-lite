@@ -3,4 +3,14 @@ PHP Lightweight Service-oriented Libraries based on SnowBlozm ServicePackages
 
 vibhaj8@gmail.com
 
+Design Principles
+	Service Contract
+	Service Loose Coupling
+	Service Abstraction
+	Service Resuability
+	Service Autonomy
+	Service Statelessness
+	*Service Discoverability
+	Service Composition
+
 
